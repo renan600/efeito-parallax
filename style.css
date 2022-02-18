@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    height: 98vh;
+    border: 2px solid black;
+    background-image: url('super-mario-png.png');
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position:left;
+}
