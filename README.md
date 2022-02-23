@@ -1,2 +1,5 @@
-# html-css-modulo-3
- Curso de Html5 e css3 , (Curso em video)
+#Efeito parallax.
+
+Um mini projeto utilizando Efeito parallax, apenas com HTML5 e CSS3.
+
+Site -> https://renan600.github.io/efeito-parallax/
