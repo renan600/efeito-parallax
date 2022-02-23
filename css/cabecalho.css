@@ -10,9 +10,9 @@
 .cabecalho__titulo {
     font-family     : 'Passion One', cursive;
     font-weight     : bolder;
-    font-size       : 7vw;
+    font-size       : 10vw;
     font-size-adjust: inherit;
-    text-transform  : uppercase;
+    font-variant    : small-caps;
     color           : whitesmoke;
 }
 
@@ -33,11 +33,11 @@
 .cabecalho__link:hover {
     text-decoration: underline;
     cursor         : pointer;
-    color: goldenrod;
+    color          : goldenrod;
 }
 
 @media screen and (max-width:500px) {
-    .cabecalho__descricao{
-        font-size:15px
+    .cabecalho__descricao {
+        font-size: 15px
     }
 }
